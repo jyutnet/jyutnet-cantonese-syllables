@@ -5,7 +5,7 @@
 
 本檔案庫提供粵語（廣州話）音節錄音檔，發音者為土生香港人，男性。錄音檔案本為提供予[《粵音資料集叢》](https://jyut.net/)網站作發音示範，現開放予公眾使用。
 
-## 範圍
+## 錄製範圍
 
 錄音檔共 5,256 個音節（連聲調）。
 
@@ -13,7 +13,7 @@
 
 ## 格式
 
-檔案採 [Opus](https://opus-codec.org/) 格式編碼，單聲道，24kbps。容器格式為 [Ogg](https://wiki.xiph.org/Ogg)，並據 [RFC7845](https://datatracker.ietf.org/doc/html/rfc7845) 以 `.opus` 為副檔名。
+檔案採 [Opus](https://opus-codec.org/) 格式編碼，單聲道，24kbps。容器格式為 [Ogg](https://wiki.xiph.org/Ogg)，並據 [RFC7845](https://datatracker.ietf.org/doc/html/rfc7845#section-9) 以 `.opus` 為副檔名。
 
 ## 目錄結構
 
